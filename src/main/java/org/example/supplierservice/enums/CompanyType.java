@@ -1,0 +1,19 @@
+package org.example.supplierservice.enums;
+
+public enum CompanyType {
+    BUYER,
+    SUPPLIER,
+    MANUFACTURER,
+    DISTRIBUTOR,
+    WHOLESALER,
+    RETAILER,
+    LOGISTICS_PROVIDER,
+    SERVICE_PROVIDER,
+    CONTRACTOR,
+    CONSULTANT,
+    PARTNER,
+    VENDOR,
+    PROCUREMENT_AGENCY,
+    THIRD_PARTY_SELLER,
+    INTERNAL_BUSINESS_UNIT
+}

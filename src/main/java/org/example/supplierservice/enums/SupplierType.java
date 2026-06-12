@@ -1,0 +1,35 @@
+package org.example.supplierservice.enums;
+
+public enum SupplierType {
+    MANUFACTURER,
+
+    DISTRIBUTOR,
+
+    WHOLESALER,
+
+    RETAIL_SUPPLIER,
+
+    SERVICE_PROVIDER,
+
+    CONTRACT_MANUFACTURER,
+
+    LOGISTICS_PROVIDER,
+
+    CONSULTANT,
+
+    IMPORTER,
+
+    EXPORTER,
+
+    LOCAL_SUPPLIER,
+
+    GLOBAL_SUPPLIER,
+
+    STRATEGIC_SUPPLIER,
+
+    PREFERRED_SUPPLIER,
+
+    OEM,
+
+    THIRD_PARTY_VENDOR
+}
